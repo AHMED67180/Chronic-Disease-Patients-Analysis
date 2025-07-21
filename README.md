@@ -45,6 +45,12 @@ This project analyzes clinical records of 300 patients with **Diabetes** and **H
 
 ---
 
+## 📸 Preview:
+![Chronic_Disease_Patients](https://github.com/user-attachments/assets/87b1a89e-be68-48b7-a343-8f5b49360f73)
+)
+
+---
+
 ## 👨‍💻 Created by
 
 **Ahmed Sabry**  
